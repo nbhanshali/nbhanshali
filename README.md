@@ -6,7 +6,7 @@ I am interested in **Artificial Intelligenc** and **Machine Learning** and am al
 📫 Feel free to reach me through <a href="nbhanshali@gmail.com">Email</a> or <a href="www.linkedin.com/in/nimit-bhanshali
 ">LinkedIn</a>!
 
-Seeking Summer Interships 2023!
+_Seeking Summer Interships 2023_
 <!---
 nbhanshali/nbhanshali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
