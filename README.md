@@ -1,4 +1,4 @@
-👋 Hi, I’m Nimit Bhanshali
+👋 Hi, I’m Nimit!
 
 I am currently an undergraduate student at the **University of Toronto**, completing a **Computer Science Specialist, Statistics Minor and Economics Minor**. 
 I am interested in **Artificial Intelligence** and **Machine Learning** and am always looking to collaborate on related projects. 
